@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+header{
+    padding: 15px;
+    margin-bottom: 3%;
+    background-color: #f6f8f9;
+}
+header img{
+    margin-left: 10px;
+    width: 5%;
+    vertical-align: middle;
+}
+#logo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+    font-weight: bold;
+    color: black;
+    vertical-align: middle;
+}
+main{
+    margin: 0 15%;
+    width: 75%;
+    padding: 15px 45px;
+    background-color: #f6f8f9;
+}
+.sec1{
+    border-bottom: white;
+    border-width: 3px;
+}
+.blu{
+    background-color: #47adf1;
+    color: white;
+    border-radius: 15%;
+    font-size: 20px;
+    padding: 5px 10px;
+}
+.bianco{
+    background-color: white;
+    color: #d0d5d9;
+    border-radius: 15%;
+    font-size: 20px;
+    padding: 5px 10px;
+}
